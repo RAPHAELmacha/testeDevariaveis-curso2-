@@ -1,0 +1,14 @@
+D:\Csharp\TesteVariaveis\testeVariaveA\bin\Debug\net9.0\testeVariaveA.exe
+D:\Csharp\TesteVariaveis\testeVariaveA\bin\Debug\net9.0\testeVariaveA.deps.json
+D:\Csharp\TesteVariaveis\testeVariaveA\bin\Debug\net9.0\testeVariaveA.runtimeconfig.json
+D:\Csharp\TesteVariaveis\testeVariaveA\bin\Debug\net9.0\testeVariaveA.dll
+D:\Csharp\TesteVariaveis\testeVariaveA\bin\Debug\net9.0\testeVariaveA.pdb
+D:\Csharp\TesteVariaveis\testeVariaveA\obj\Debug\net9.0\testeVariaveA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\TesteVariaveis\testeVariaveA\obj\Debug\net9.0\testeVariaveA.AssemblyInfoInputs.cache
+D:\Csharp\TesteVariaveis\testeVariaveA\obj\Debug\net9.0\testeVariaveA.AssemblyInfo.cs
+D:\Csharp\TesteVariaveis\testeVariaveA\obj\Debug\net9.0\testeVariaveA.csproj.CoreCompileInputs.cache
+D:\Csharp\TesteVariaveis\testeVariaveA\obj\Debug\net9.0\testeVariaveA.dll
+D:\Csharp\TesteVariaveis\testeVariaveA\obj\Debug\net9.0\refint\testeVariaveA.dll
+D:\Csharp\TesteVariaveis\testeVariaveA\obj\Debug\net9.0\testeVariaveA.pdb
+D:\Csharp\TesteVariaveis\testeVariaveA\obj\Debug\net9.0\testeVariaveA.genruntimeconfig.cache
+D:\Csharp\TesteVariaveis\testeVariaveA\obj\Debug\net9.0\ref\testeVariaveA.dll
